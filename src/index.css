@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+/* This ensures the body doesn't have default white margins that push your layout around */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #0a0a0f;
+  overflow-x: hidden;
+}
