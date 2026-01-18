@@ -1,4 +1,6 @@
+import './index.css'; // 👈 This connects your code to Tailwind
 import { useState, useEffect, useRef } from 'react';
+
 
 // Animated particle grid background
 const ParticleGrid = () => {
