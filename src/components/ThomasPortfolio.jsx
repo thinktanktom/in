@@ -1503,7 +1503,7 @@ export default function ThomasPortfolio() {
           </div>
           
           <p className="text-gray-600 text-sm" style={{ fontFamily: 'Space Mono, monospace' }}>
-            © 2025 Thomas C. All rights reserved.
+            © 2025 Thomas Cyriac. All rights reserved.
           </p>
           
           <div className="flex gap-4">
