@@ -1,11 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite' // 👈 Add this
 
+// https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [
-    react(),
-    tailwindcss(), // 👈 Add this
-  ],
-  base: 'in', // Keep your repo name here
+  plugins: [react()],
+  base: '/in/', // Replace 'your-repo-name' with your actual GitHub repo name
 })
