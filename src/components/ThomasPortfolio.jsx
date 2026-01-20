@@ -198,7 +198,7 @@ export default function ThomasPortfolio() {
     },
     {
       name: 'CtrlBit',
-      role: 'Co-Founder',
+      role: 'Founding Engineer',
       period: '2024 - Present',
       description: 'SaaS infrastructure for Mikrotik network management. Centralized monitoring, zero-touch provisioning, and secure remote access for global ISPs.',
       tech: ['DevOps', 'Docker', 'API', 'Infrastructure'],
