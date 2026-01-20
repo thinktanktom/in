@@ -908,7 +908,7 @@ export default function ThomasPortfolio() {
             <Reveal delay={300}>
               <div className="flex gap-4 items-center">
                 <a 
-                  href="https://www.linkedin.com/in/thomas-c-7a8ba3184/"
+                  href="https://www.linkedin.com/in/thinktanktom/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full flex items-center justify-center"
@@ -1464,7 +1464,7 @@ export default function ThomasPortfolio() {
               </a>
               
               <a 
-                href="https://www.linkedin.com/in/thomas-c-7a8ba3184/"
+                href="https://www.linkedin.com/in/thinktanktom/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 font-semibold rounded-full flex items-center justify-center gap-3"
@@ -1532,7 +1532,7 @@ export default function ThomasPortfolio() {
               </svg>
             </a>
             <a 
-              href="https://www.linkedin.com/in/thomas-c-7a8ba3184/"
+              href="https://www.linkedin.com/in/thinktanktom/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full flex items-center justify-center"
