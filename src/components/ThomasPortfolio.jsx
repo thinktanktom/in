@@ -199,7 +199,7 @@ export default function ThomasPortfolio() {
     {
       name: 'CtrlBit',
       role: 'Founding Engineer',
-      period: '2024 - Present',
+      period: 'Aug 2024 - Present',
       description: 'SaaS infrastructure for Mikrotik network management. Centralized monitoring, zero-touch provisioning, and secure remote access for global ISPs.',
       tech: ['DevOps', 'Docker', 'API', 'Infrastructure'],
       color: '#ff0066'
@@ -211,6 +211,22 @@ export default function ThomasPortfolio() {
       description: 'Designed yield farming algorithms and loan regulatory software for this DeFi protocol.',
       tech: ['DeFi', 'Smart Contracts', 'Ethereum'],
       color: '#00d4ff'
+    },
+    {
+    name: 'Lambda Vision IXXO',
+    role: 'AI & Blockchain Engineer',
+    period: 'Oct 2020 - Feb 2021',
+    description: 'French blockchain startup in Paris. Implemented automatic watermark detection using deep learning and built Token-Curated Registry on Ethereum blockchain.',
+    tech: ['Python', 'OpenCV', 'Solidity', 'AI'],
+    color: '#bd34fe'
+    },
+    {
+    name: 'Gieom',
+    role: 'Machine Learning Engineer',
+    period: 'Jun 2020 - Aug 2020',
+    description: 'Implemented LDA topic models for RBI circular classification and built facial recognition with alignment algorithms for increased accuracy.',
+    tech: ['Machine Learning', 'TensorFlow', 'Linux'],
+    color: '#ffa800'
     }
   ];
   
