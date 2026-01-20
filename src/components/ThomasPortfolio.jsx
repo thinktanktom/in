@@ -241,8 +241,8 @@ export default function ThomasPortfolio() {
       link: 'https://github.com/thinktanktom/onchain-randomization'
     },
     {
-      title: 'Cross-Chain Token Bridges: ERC20 to BEP20 Migration',
-      excerpt: 'Building a cross-chain bridge API for seamless token migration between Ethereum and Binance Smart Chain. Covers security patterns, atomic swaps, and handling chain reorganizations.',
+      title: 'Facial Alignment and Recognition Software',
+      excerpt: 'Developed a facial recognition system with an advanced facial alignment algorithm using dlib and OpenCV, implementing threading to optimize performance while achieving high accuracy for production-level computer vision applications.',
       date: '2023',
       category: 'Infrastructure',
       color: '#00ff88',
@@ -259,12 +259,12 @@ export default function ThomasPortfolio() {
   ];
   
   const skills = [
-    { name: 'Solidity', level: 95 },
-    { name: 'Rust', level: 88 },
-    { name: 'Node.js', level: 92 },
-    { name: 'Ethereum', level: 94 },
-    { name: 'Docker', level: 85 },
-    { name: 'DApps', level: 90 }
+    { name: 'Solidity' },
+    { name: 'Rust' },
+    { name: 'Node.js' },
+    { name: 'Ethereum'},
+    { name: 'Docker'},
+    { name: 'DApps'}
   ];
 
   return (
